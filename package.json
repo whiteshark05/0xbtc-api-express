@@ -1,0 +1,23 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteshark05/simple-express-app.git"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whiteshark05/simple-express-app/issues"
+  },
+  "homepage": "https://github.com/whiteshark05/simple-express-app#readme"
+}
