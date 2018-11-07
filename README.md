@@ -13,9 +13,12 @@ npm start
 server runs at http://localhost:4000/
 
 Currently built APIs:
-":/" : Welcome Page
-":/owner" : Get the current owner of 0xbtc contract
-":/balanceOf/:address" : Get 0xbtc balance from a given address
-":/stats" : Display some useful stats
+| Routes | Description |
+| --- | --- |
+| `:/` | Welcome Page |
+| `/owner` | Get the current owner of 0xbtc contract |
+| `:/balanceOf/:address` | Get 0xbtc balance from a given address |
+| `:/stats` | Display some useful stats |
+
 
 Feel free to add more for your own use. :)
