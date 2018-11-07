@@ -1,7 +1,7 @@
 # 0xbtc-api-express
 HTTP GET APIs for 0xbtc using expressjs
 
-Simple Express Server that is used to convert web3 to HTTP GET APIs for 0xbtc. 
+Simple Express Server to convert web3 to HTTP GET APIs for 0xbtc. 
 
 How to use:
 
