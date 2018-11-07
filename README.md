@@ -16,10 +16,10 @@ Currently built APIs:
 
 | Routes | Description |
 | --- | --- |
-| :/ | Welcome Page |
+| / | Welcome Page |
 | /owner | Get the current owner of 0xbtc contract |
-| :/balanceOf/:address | Get 0xbtc balance from a given address |
-| :/stats | Display some useful stats |
+| /balanceOf/:address | Get 0xbtc balance from a given address |
+| /stats | Display some useful stats |
 
 
 
