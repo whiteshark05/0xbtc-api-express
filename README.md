@@ -15,15 +15,11 @@ server runs at http://localhost:4000/
 Currently built APIs:
 | Routes | Description |
 | --- | --- |
-| `:/` | Welcome Page |
-| `/owner` | Get the current owner of 0xbtc contract |
-| `:/balanceOf/:address` | Get 0xbtc balance from a given address |
-| `:/stats` | Display some useful stats |
+| ":/" | Welcome Page |
+| "/owner" | Get the current owner of 0xbtc contract |
+| ":/balanceOf/:address" | Get 0xbtc balance from a given address |
+| ":/stats" | Display some useful stats |
 
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
 
 Feel free to add more for your own use. :)
