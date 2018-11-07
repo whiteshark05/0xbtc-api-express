@@ -21,4 +21,9 @@ Currently built APIs:
 | `:/stats` | Display some useful stats |
 
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 Feel free to add more for your own use. :)
